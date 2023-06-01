@@ -1,0 +1,35 @@
+p {
+    font: 25px;
+}
+
+.top_links {
+    font: 24px #F9faf8;
+}
+
+footer {
+    font: 24px white;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.quote {
+    font: 36px light italic #1f2937;
+}
+
+.quote_person {
+    font: 25px bold 1f2937;
+}
+
+.background_quote {
+    background-color: #e5e7eb;
+}
+
+.logo {
+    font: 25px white;
+    text-align: center;
+    background-color: rgb(231, 67, 95);
+}
+
+.fourimages {
+
+}
